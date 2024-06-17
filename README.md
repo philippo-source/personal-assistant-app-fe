@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# About Project
+
+Frontend app for personal-assistant-app-be. Written in React, using Tailwind CSS.
+
+![Project Example](./docs/Example.png)
+
+## Run app
+
+``npm start``
+
+## Additional Info: Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
